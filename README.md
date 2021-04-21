@@ -1,9 +1,8 @@
 # Overview
 
-This tiny project is for demonstration of the enviroment I created for future projects.
-It consists of a Hello World print line in Python.
+This code is for the demonstration of the enviroment I created for future projects. It consists of a Hello World print line in Python with the implementation of venv tool for different versions of Python.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bpfjP9vSQtk)
 
 # Development Environment
 
